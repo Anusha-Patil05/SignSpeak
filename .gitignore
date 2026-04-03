@@ -1,0 +1,19 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Node modules (already in frontend/.gitignore but just in case)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env

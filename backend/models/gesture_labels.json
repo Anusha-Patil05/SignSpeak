@@ -1,0 +1,17 @@
+{
+  "gestures": {
+    "open_hand":   { "word": "Hello",      "description": "All fingers extended, palm facing out" },
+    "thumbs_up":   { "word": "Good",       "description": "Thumb pointing up, others closed" },
+    "thumbs_down": { "word": "Bad",        "description": "Thumb pointing down, others closed" },
+    "fist":        { "word": "Stop",       "description": "All fingers closed into a fist" },
+    "peace":       { "word": "Peace",      "description": "Index and middle finger extended" },
+    "point_up":    { "word": "Yes",        "description": "Index finger pointing up" },
+    "ok_sign":     { "word": "Okay",       "description": "Thumb and index forming a circle" },
+    "pinch":       { "word": "Small",      "description": "Thumb and index pinching together" },
+    "love":        { "word": "I Love You", "description": "Thumb, index and pinky extended" },
+    "rock":        { "word": "Rock",       "description": "Index and pinky extended" },
+    "call_me":     { "word": "Call Me",    "description": "Thumb and pinky extended" },
+    "three":       { "word": "Three",      "description": "Three fingers extended" },
+    "four":        { "word": "Four",       "description": "Four fingers extended" }
+  }
+}
