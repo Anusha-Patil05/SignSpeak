@@ -10,7 +10,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import axios from 'axios'
 
-const API_BASE = 'http://localhost:8000'
+const API_BASE = 'https://signspeak-backend-x9ub.onrender.com'
 const CLASSIFY_INTERVAL_MS = 300  // classify 3 times per second
 
 export function useHandTracking(videoRef, canvasRef, isActive) {

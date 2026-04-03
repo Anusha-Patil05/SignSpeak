@@ -18,7 +18,7 @@ export default function App() {
   const lastAddedRef = useRef({ word: null, time: 0 })
 
   useEffect(() => {
-    fetch('http://localhost:8000/health')
+    fetch('https://signspeak-backend-x9ub.onrender.com/health')
       .then(() => setBackendOnline(true))
       .catch(() => setBackendOnline(false))
   }, [])
